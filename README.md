@@ -43,7 +43,7 @@
 
 * Temos as Tree que armazenam blobs e aponta para outros diretórios;
 
-  **Commit: **
+  **Commit:**
 
   * Aponta para uma Tree;
   * Aponta para um autor;
