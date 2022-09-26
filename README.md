@@ -35,7 +35,7 @@
 * *git commit* ( Faz commit dos arquivos adicionados).  
 * *git push*( É o comando em que você transfere commits a partir do seu repositório local para um repositório remoto.)
 
-#### Entendendo o funcionamento do GIT:
+### Entendendo o funcionamento do GIT:
 
 * O git lida com os dados em forma de objetos;
 
