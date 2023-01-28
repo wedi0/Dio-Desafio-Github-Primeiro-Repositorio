@@ -66,11 +66,18 @@ Para mexer no Git/ Github pesquisei em alguns sites:
 
 
 
+
+
 Para aprender a formatar os arquivos .md ( markdown) usei estes links: 
 
 * [Baixei Typora para poder editar localmente alguns arquivos](https://typora.io/)
 
 * [Informações básicas de formatação markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
-  
+  ## Fim
+
+
+
+*Se chegou até aqui é porque se interessou pelo trabalho, portanto muito obrigado pela atenção :D*
+
 
